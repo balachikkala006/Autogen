@@ -1,0 +1,4 @@
+openai
+langchain
+autogen
+python-dotenv
